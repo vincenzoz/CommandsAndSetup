@@ -122,7 +122,7 @@ git push
 
 <br><br>
 
-## Undos
+## Undo
 
 ### Remove file from index (Undo git add)
 
