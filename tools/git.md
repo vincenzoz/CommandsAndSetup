@@ -1,5 +1,10 @@
 # Git commands
 
+* [Log and format](#Log-and-format)
+* [Working with remotes](#Working-with-remotes)
+* [Undo](#Undo)
+* [Utilities](#Utilities)
+
 ## Log and format
 
 ### Show the commits history in specified format
@@ -38,8 +43,6 @@ git log -n 4
 ```txt
 git reflog
 ```
-
-<br><br>
 
 ## Working with remotes
 
@@ -120,8 +123,6 @@ git log
 git push
 ```
 
-<br><br>
-
 ## Undo
 
 ### Remove file from index (Undo git add)
@@ -192,8 +193,6 @@ git push --delete origin <tag_name>
 ```txt
 git tag -d <tag_name>
 ```
-
-<br><br>
 
 ## Utilities
 
