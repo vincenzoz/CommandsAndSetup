@@ -17,6 +17,12 @@ cat /proc/version
 cat /etc/os-release
 ```
 
+#### Check the hard disk size
+
+```txt
+df -h
+```
+
 ### Download a file with wget
 
 ```txt
@@ -151,6 +157,13 @@ touch $WORKSPACE_HOME/readme.md
 
 ```txt
 mv /home/db2inst1 /home/db2instl
+```
+
+### Ubuntu file manager
+
+```txt
+Ctrl + H    Show / Hide hidden files
+Ctrl + L    Edit address bar
 ```
 
 ## Processes
