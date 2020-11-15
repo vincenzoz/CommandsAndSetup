@@ -29,3 +29,4 @@ C:\Users\username\AppData\Roaming\Code\User
 | Ctrl + Alt + R    | Refactor                   |
 | Ctrl + Alt + R    | Rename files               |
 | Shift + Alt + E   | Open in explorer           |
+| Alt + Enter       | Quick fix                  |
