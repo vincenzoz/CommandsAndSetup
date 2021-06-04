@@ -1,6 +1,7 @@
 # Windows commands
 
 * [Processes](#Processes)
+* [Dual boot](#Dual-boot-GRUB-missing)
 
 ## Processes
 
@@ -40,4 +41,15 @@ Refresh the Service list
 
 ```txt
 sc delete ActiveMQ
+```
+
+## Dual boot GRUB missing
+
+### After windows updates, dual boot doesn't show the ubuntu GRUB bios anymore
+
+```txt
+Restart windows
+Press F10 to enter on bios
+Bios order (Find EFI Boot Manager)
+OS mode - change the order using ubuntu first on os
 ```
